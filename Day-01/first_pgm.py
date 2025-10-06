@@ -20,7 +20,7 @@ print(f"15-7 = {15-7}")
 #Your commitment
 print(f"\n{name}, you're starting an amazing journeu!")
 print(f"Next 12 months will tranform your life.")
-print("Let's build your AI future together! 🚀")
+print(f"Let's build your AI future together! {name} 🚀")
 
 #Small calculations with age
 age= int(input("\n what's your age?"))
